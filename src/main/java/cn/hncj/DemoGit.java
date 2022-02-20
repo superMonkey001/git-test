@@ -8,6 +8,6 @@ public class DemoGit {
         System.out.println("i love u 4");
         System.out.println("master");
         System.out.println("hot-fix");
-        System.out.printlen("orgin/main");
+        System.out.println("origin/main");
     }
 }
