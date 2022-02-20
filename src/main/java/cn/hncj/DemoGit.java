@@ -6,5 +6,6 @@ public class DemoGit {
         System.out.println("i love u 2");
         System.out.println("i love u 3");
         System.out.println("i love u 4");
+        System.out.println("master");
     }
 }
